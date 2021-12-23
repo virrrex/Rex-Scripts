@@ -1,7 +1,7 @@
 # Rex-Scripts
 Some cool scripts to make your life easy peasy
 
-## How To Run
+### How To Run
 Double Click on .bat file to run the Scripts
 
 ## Mouse Script
