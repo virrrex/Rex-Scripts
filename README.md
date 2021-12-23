@@ -7,7 +7,7 @@ Double Click on .bat file to run the Scripts
 ## Mouse Script
 Double click start.bat to start the script
 
-### Working
+#### Working
 Mouse script will move your mouse pointer by 1 pixel every 120 seconds.
 It is helpful in case your company provided laptop/desktop needs to be awake but you want to sleep ;)
 
@@ -19,8 +19,8 @@ It is helpful in case your company provided laptop/desktop has disabled shutdown
 This script will end task when you provide the task name from task-manager by editing killtask.bat file.
 It is helpful in case when some annoying task is forcefully starting even after you end task manually.
 
-### How to edit files
+#### How to edit files
 Right click and edit
 
-### Working
+#### Working
 It will loop for 5 seconds and forcefully terminate the task every 5 seconds
