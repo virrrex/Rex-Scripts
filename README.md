@@ -11,7 +11,7 @@ Double click start.bat to start the script
 Mouse script will move your mouse pointer by 1 pixel every 120 seconds.
 It is helpful in case your company provided laptop/desktop needs to be awake but you want to sleep ;)
 
-## Shuddown Script
+## Shutdown Script
 This script will turn off your system immediately.
 It is helpful in case your company provided laptop/desktop has disabled shutdown button for you 
 
